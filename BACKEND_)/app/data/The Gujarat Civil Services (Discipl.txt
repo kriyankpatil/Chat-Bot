@@ -1,0 +1,682 @@
+**The Gujarat Civil Services (Discipline and Appeal) Rules, 1971**
+
+**Part-I – General**
+-------------------------------------------------------------------------------------------------------
+
+**Subject**                                      **Rule No.**        **Page No.**
+
+Short title, Commencement and Application        1                  4  
+Definition                                       2                  4  
+Special Provision by Agreement                   3                  5  
+Protection of rights and privileges              4                  5  
+conferred by any Law or Agreement  
+
+**Part-II - Suspension**
+
+Suspension                                      5                  6  
+
+**Part-III - Discipline**
+
+Nature of Penalties                             6                  8  
+Disciplinary Authority                          7                  10
+Authority to institute proceedings              8                  10
+
+**Part-IV – Procedure for Imposing Penalties**
+
+Procedure for imposing major penalties          9                  11
+Action on the Inquiry Report                    10                 17
+Procedure for imposing minor penalties          11                 18
+Imposition of Minor Penalty with Consent of     11A                19
+Government Servant  
+Communication of orders                         12                 20
+Common Proceedings                              13                 20
+Special Procedure in certain cases              14                 21
+Provision regarding Officers lent to Central    15                 21
+Government or other State Government etc.  
+Provision regarding Officers borrowed from      16                 22
+Central Government or other State Government etc.  
+
+**Part – V – Appeals**
+
+Orders against which an appeal shall not lie    17                 23
+Orders against which an appeal lies             18                 23
+Period of limitation for Appeal                 19                 25
+Form and Content of Appeal                      20                 26
+Consideration of Appeals                        21                 26
+
+**Part – VI – Review**
+
+Government’s power to review                    22                 27
+Review of orders in disciplinary cases          23                 28
+Review by Government of its own orders          24                 28
+
+**Part – VII – Miscellaneous**
+
+Power to relax time limit and condone delay     25                 29
+Supply of copy of Commission’s Advice           26                 29
+Repeal and Saving                               27                 29
+Removal of doubts                               28                 30
+Appendix                                                          31
+
+List of amendments                                                 32
+
+-------------------------------------------------------------------------------------------------------
+
+**GENERAL ADMINISTRATION DEPARTMENT**
+
+**Notification**  
+Sachivalaya, Gandhinagar, 10th August, 1971  
+
+**CONSTITUTION OF INDIA**
+
+No. GS-71/73-CDR-1062-II-G. :- In exercise of the powers conferred by the proviso to article 309 of the Constitution of India, and with previous approval of the Central Government under the proviso to sub-section (6) of section 81 of the Bombay Reorganization Act, 1960 (Act 11 of 1960), the Governor of Gujarat hereby makes the following rules, namely :-
+
+**PART - I GENERAL**
+
+**1. Short title, Commencement and Application :-**
+
+(a) These rules may be called the Gujarat Civil Services (Discipline and Appeal) Rules, 1971.  
+
+(b) They shall come into force with effect from 15th August, 1971.  
+
+(c) They shall apply to all persons appointed to civil services and posts in connection with the affairs of the State of Gujarat whose conditions of service are regulated in accordance with the rules made under article 309 of the Constitution.  
+
+Provided that nothing in these rules shall apply to any Government servants who are members of the All India Services or who are Inspectors of Police or Members of the Subordinate ranks of the Police Force.  
+
+**2. Definitions :-**
+
+In these rules, unless the context otherwise requires :-
+
+(a) ‘Appointing Authority’ in relation to a Government servant means :-  
+
+   (i) the authority empowered to make appointments to the service of which the Government servant is for the time being a member or the grade of the Service in which the Government servant is for the time being included, or  
+
+   (ii) the authority empowered to make appointments to the post which the Government servant for the time being holds, or  
+
+   (iii) the authority which appointed the Government servant to such service, grade or post, as the case may be, or  
+
+   (iv) where the Government servant having been a permanent member of any other service or having substantively held any other permanent post has been in continuous employment of the Government, the authority which appointed him to that service or to any grade in that service or to that post, whichever authority is the highest authority;  
+
+(b) “Commission” means the Gujarat Public Service Commission.  
+
+(c) “Disciplinary Authority” means the authority competent under these rules to impose on a Government servant any of the penalties specified in rule 6.  
+
+(d) “The Government” means the Government of Gujarat.  
+
+(e) “Government servant” means a person who :-  
+
+   (i) is a member of a Civil Service or who holds a Civil Post under the Government and includes any such person on foreign service or whose services are temporarily placed at the disposal of the Government of India or any other Government or a local or other authority.  
+
+   (ii) is a member of a Civil Service or holds a Civil Post under the Central Government or other State Government and whose services are temporarily placed at the disposal of the Government.  
+
+(ee) ‘High Level Committee’ means such committee or Committees may be constituted by the Government from time to time for the purpose of rule 11-A.  
+
+(f) Words and expressions used but not defined in these rules shall have the meanings assigned to them in the Bombay Civil Services Rules, 1959 or in the rules relating to the recruitment and classification of services for the time being in force.  
+
+**[Inserted vide GN-GAD-NO.GS-2000-29-KHATAP-1098-540-Inq.Cell. dated 2-11-2000.]**
+
+**3. Special Provision by Agreement :-**
+
+Where it is considered necessary to make special provisions for any Government servant in respect of matters covered by these rules, the appointing authority may by agreement with such Government servant, make such special provisions and thereupon these rules shall not apply to such Government servant to the extent to which the special provisions so made are inconsistent therewith :  
+
+Provided that if the appointing authority is other than Government, the previous approval of Government shall be obtained by such authority before making such special provisions.  
+
+**4. Protection of rights and privileges conferred by any law or Agreement :-**
+
+Nothing in these rules shall deprive any Government servant of any right or privilege to which he is entitled :-
+
+(a) by or under any law for the time being in force, or  
+
+(b) by the terms of any agreement subsisting between such person and Government at the commencement of these rules.
+
+### PART - II: SUSPENSION
+
+**5. Suspension:**  
+
+(1) The appointing authority, or any authority to which it is subordinate, or the disciplinary authority, or any other authority empowered by the Government in that behalf may place a Government servant under suspension:  
+
+  *(a)* Where a disciplinary proceeding against him is contemplated or is pending:  
+  - *Provided that:* Where a Government servant against whom disciplinary proceeding is contemplated is suspended, such suspension shall not be valid unless, before the expiry of a period of **ninety days** from which the Government servant was suspended, disciplinary proceedings are initiated against him.  
+  - *Provided further that:* The Government or any other authority empowered by the Government by special or general order may, at any time before the expiry of the said period of ninety days, and after considering the special circumstances for not initiating disciplinary proceedings (to be recorded in writing), extend the period of suspension beyond the period of ninety days without disciplinary proceeding being initiated.  
+  - *Provided also that:* Such extension of suspension shall not be for a period exceeding **ninety days at a time**.  
+
+  *(b)* Where a case against him in respect of any criminal offence involving moral turpitude is under investigation, inquiry, or trial:  
+  - *Provided that:* Where the order of suspension is made by an authority subordinate to or lower in rank than the appointing authority, such authority shall forthwith report to the appointing authority the circumstances in which the order was made.  
+
+(2) A Government servant shall be deemed to have been placed under suspension by an order of the appointing authority:  
+
+  *(a)* With effect from the date of his detention, if he is detained in custody, whether on a criminal charge or otherwise, for a period exceeding **forty-eight hours**.  
+
+  *(b)* With effect from the date of his conviction if, in the event of conviction for an offence, he is sentenced to a term of imprisonment exceeding **forty-eight hours** and is not forthwith dismissed or removed or compulsorily retired consequent upon such conviction.  
+
+  - **Explanation:** The period of forty-eight hours referred to in clause (b) of this sub-rule shall be computed from the commencement of the imprisonment after the conviction, and for this purpose, intermittent periods of imprisonment, if any, shall be taken into account.  
+
+(2A) An order of suspension made or deemed to have been made under this rule shall be reviewed by the authority competent to modify or revoke the suspension, **before expiry of ninety days** from the effective date of suspension. After such review, the competent authority may pass an order either extending or revoking the suspension. Subsequent reviews shall be made **before expiry of the extended period of suspension**.  
+
+- The extension of suspension shall not be for a period exceeding **one hundred and eighty days** at a time.  
+- An order of suspension made or deemed to have been made under sub-rule (1) or (2) of this rule, shall not be valid after a period of **ninety days** unless it is extended after review for a further period before the expiry of ninety days.  
+
+  - *Provided that:* No such review of suspension shall be necessary in the case of deemed suspension under sub-rule (2), if the Government servant continues to be under suspension at the time of completion of ninety days of suspension. The ninety days period in such cases will count from:  
+    1. The date the Government servant detained in custody is released from detention, or  
+    2. The date on which the fact of his release from detention is intimated to his appointing authority, whichever is later.  
+
+(3) Where a penalty of dismissal, removal, or compulsory retirement from service imposed upon a Government servant under suspension is set aside in appeal or on review under these rules and the case is remitted for further inquiry or action or with any other directions:  
+
+- The order of his suspension shall be deemed to have continued in force with effect on and from the date of the original order of dismissal, removal, or compulsory retirement and shall remain in force until further orders.  
+
+(4) Where a penalty of dismissal, removal, or compulsory retirement from service imposed upon a Government servant is set aside or declared or rendered void in consequence of or by a decision of a court of law, and the disciplinary authority, on consideration of the circumstances of the case, decides to hold a further inquiry against him on the allegations on which the penalty was originally imposed:  
+
+- The Government servant shall be deemed to have been placed under suspension by the appointing authority, from the date of the original order of dismissal, removal, or compulsory retirement and shall continue to remain under suspension until further orders.  
+
+(5) *(a)* Subject to the provisions contained in sub-rule (2A), an order of suspension made or deemed to have been made under this rule shall continue to remain in force until it is modified or revoked by the authority competent to do so.  
+
+  *(b)* Where a Government servant is suspended or is deemed to have been suspended, in connection with any disciplinary proceeding or otherwise, and any other disciplinary proceeding is commenced against him during the continuance of such suspension:  
+
+  - The authority competent to place him under suspension may, for reasons to be recorded by him in writing, direct that the Government servant shall continue to be under suspension until the termination of all or any of such proceedings.  
+
+  *(c)* An order of suspension made or deemed to have been made under this rule may be modified or revoked at any time by:  
+  - The authority which made or is deemed to have made it, or  
+  - Any authority to which that authority is subordinate.
+
+### **PART III: DISCIPLINE**
+
+### **6. Nature of Penalties:**
+
+Without prejudice to any law in force, the following penalties may be imposed on any member of the State, Subordinate, or Inferior Service:
+
+#### **Minor Penalties:**
+1. Censure.
+2. Withholding of increments or promotion.
+3. Recovery from pay of the whole or part of any pecuniary loss caused to the Government due to negligence or breach of orders.
+
+#### **Major Penalties:**
+4. Reduction to a lower stage in the time scale of pay for a specified period with or without affecting increments during and after the period.
+5. Reduction to a lower time scale of pay, grade, post, or service, with or without conditions for restoration and affecting seniority and pay upon restoration.
+6. Compulsory retirement.
+7. Removal from service (not a disqualification for future government employment).
+8. Dismissal from service (ordinarily a disqualification for future government employment).
+
+**Note:**
+- *The penalty of 'Censure' was deleted on 16-05-1996 and reinserted on 01-12-2000.*
+
+#### **Explanation:**
+The following actions do not constitute penalties under this rule:
+1. Withholding increments due to failure to pass departmental or other examinations.
+2. Stoppage at the efficiency bar due to unfitness to cross the bar.
+3. Non-promotion on administrative grounds, not as a disciplinary measure.
+4. Reversion to a lower post during probation or for unsuitability after trial.
+5. Reversion to a permanent post after probation in another post.
+6. Return of a borrowed officer to the parent department.
+7. Compulsory retirement as per legal provisions.
+8. Termination of service:
+   - During or at the end of probation.
+   - On administrative grounds for a temporary employee.
+   - As per the terms of a contract.
+
+---
+
+### **7. Disciplinary Authority:**
+
+1. **Government:** May impose any penalty specified in Rule 6 on any government servant.
+2. **Head of Department:** May impose minor penalties (items 1 and 2 of Rule 6) on Class II officers under their control.
+3. **Heads of Departments/Offices:**
+   - May impose any penalties from Rule 6 on subordinate or inferior services they appoint.
+   - May impose penalties specified in the Appendix on those they do not appoint.
+4. **High-Level Committee:** May impose minor penalties (items 1 and 2 of Rule 6) under Rule 11A on any government servant.
+
+*Note:* Specific amendments have been made over time, including the insertion of new authorities and provisions.
+
+---
+
+### **8. Authority to Institute Proceedings:**
+
+1. The Government or an empowered authority may:
+   - Institute disciplinary proceedings against any government servant.
+   - Direct a disciplinary authority to initiate proceedings.
+
+2. Disciplinary authorities competent to impose minor penalties (items 1-3 of Rule 6) may initiate proceedings for major penalties (items 4-8 of Rule 6), even if not competent to impose them.
+
+3. A disciplinary authority can initiate proceedings for misconduct committed by a government servant in their current or any previous post, either within the same service or a different service of the State Government.
+
+*Note:* This provision was inserted via amendments to extend the authority's power to past misconduct in prior posts.
+
+**PART IV: PROCEDURE FOR IMPOSING PENALTIES**
+
+### Rule 9: Procedure for Imposing Major Penalties
+
+**(1) Inquiry Requirement:**
+- No major penalties specified in items (4) to (8) of Rule 6 shall be imposed without conducting an inquiry.
+- Inquiry must follow the procedure outlined in this rule and Rule 10 or under the Public Servants (Inquiry) Act, 1850.
+
+**(2) Initiating Inquiry:**
+- If the Disciplinary Authority believes there are grounds for an inquiry, it may:
+  - Conduct the inquiry itself.
+  - Appoint an Inquiry Authority under this rule or the Public Servants (Inquiry) Act, 1850.
+
+*Exception:*
+- For complaints of sexual harassment under Rule 3-B of the Gujarat Civil Services (Conduct) Rules, 1971:
+  - The Complaints Committee serves as the Inquiry Authority.
+  - If no separate procedure is prescribed, the inquiry shall follow these rules.
+
+**(3) Preparation for Inquiry:**
+- The Disciplinary Authority must prepare the following:
+  1. **Articles of Charge:** Clearly defined charges of misconduct or culpable actions.
+  2. **Statement of Imputations:** Supporting details for each charge, including:
+     - Relevant facts, including any admissions by the Government servant.
+     - List of supporting documents and witnesses.
+
+**(4) Delivery of Charges:**
+- The Disciplinary Authority must deliver or ensure delivery of:
+  - Articles of charge.
+  - Statement of imputations.
+  - List of supporting documents and witnesses.
+- The Government servant is required to submit a written defense within the specified time and state if they wish to be heard in person.
+
+**(5) Inquiry Process:**
+- **(a)** If the Government servant denies the charges:
+  - The Disciplinary Authority may inquire itself or appoint an Inquiry Authority.
+- **(b)** If no defense statement is submitted:
+  - The Disciplinary Authority may proceed with the inquiry directly or appoint an Inquiry Authority.
+- **(c)** The Disciplinary Authority may nominate a Presenting Officer to present the case.
+
+*Representation:*
+- The Government servant may be assisted by another Government servant (approved by the Inquiry Authority).
+- Legal practitioners may only be engaged with special permission.
+- Assistance from a retired Government servant is allowed as per general or special orders.
+
+**(6) Documentation for Inquiry Authority:**
+- If an Inquiry Authority is appointed, the Disciplinary Authority shall forward:
+  - Articles of charge and statement of imputations.
+  - Written defense (if submitted).
+  - List of witnesses and documents.
+  - Evidence of delivery of documents.
+  - Appointment order of the Presenting Officer.
+
+**(7) Appearance Before Inquiry Authority:**
+- The Government servant must appear before the Inquiry Authority within 10 working days of receiving the charges or within a further period of up to 10 days if allowed.
+
+**(8) Plea of Guilt:**
+- If the Government servant admits guilt, the Inquiry Authority:
+  - Records the plea and obtains the Government servant's signature.
+  - Returns a finding of guilt on those charges.
+
+**(9) Absence or Failure to Plead:**
+- If the Government servant does not appear or refuses to plead:
+  - The Presenting Officer shall produce evidence.
+  - The case is adjourned to a later date (within 30 days).
+
+During this time, the Government servant may:
+  1. Inspect documents specified in the charges within 5 days (or up to 10 days if allowed).
+  2. Submit a list of witnesses for their defense.
+  3. Request additional relevant documents from the Government.
+
+**(10) Document Discovery and Production:**
+- The Inquiry Authority shall forward any document requests to the relevant authority.
+- If the authority denies the request for reasons of public interest or state security, the Inquiry Authority must communicate this to the Government servant and withdraw the requisition.
+
+**(11) Document Production:**
+- The requested authority must provide the documents unless public interest or state security prevents disclosure.
+
+**(12) Communication of Denial:**
+- If document production is refused on public interest or security grounds, the Inquiry Authority must inform the Government servant and withdraw the requisition.
+
+**Part IV – Procedure for Imposing Penalties (Rule 9)**
+
+**(13)** On the date fixed for the inquiry:
+- Oral and documentary evidence supporting the articles of charge shall be presented by or on behalf of the Disciplinary Authority.
+- Witnesses shall be:
+  - Examined by or on behalf of the Presenting Officer.
+  - Subject to cross-examination by or on behalf of the Government servant.
+  - Re-examined by the Presenting Officer on previously cross-examined points (not new matters) without the leave of the Inquiry Authority.
+- The Inquiry Authority may put questions to the witnesses as deemed necessary.
+
+**(14)** Additional Evidence:
+- If necessary, before closing the case for the Disciplinary Authority, the Inquiry Authority may:
+  - Allow the Presenting Officer to produce evidence not included in the original list.
+  - Call for new evidence, recall, or re-examine any witness.
+- The Government servant shall be given:
+  - A copy of the list of additional evidence (if demanded).
+  - An adjournment of three clear days before presenting the new evidence (excluding the day of adjournment and the day to which the inquiry is adjourned).
+  - An opportunity to inspect new documents before they are added to the record.
+- The Inquiry Authority may allow the Government servant to produce new evidence if it is deemed necessary in the interest of justice.
+
+*Note:* New evidence shall not be allowed to fill gaps in the original evidence. It may only be permitted if there is an inherent lacuna or defect in the existing evidence.
+
+**(15)** Government Servant's Defence:
+- Once the Disciplinary Authority's case is closed, the Government servant must present their defence:
+  - Either orally or in writing (as preferred).
+  - If given orally, it shall be recorded and signed by the Government servant.
+  - A copy of the statement of defence shall be provided to the Presenting Officer (if appointed).
+
+**(16)** Evidence by the Government Servant:
+- The Government servant may:
+  - Examine themselves as a witness.
+  - Produce other witnesses who will be subject to examination, cross-examination, and re-examination by the Inquiry Authority and Presenting Officer.
+
+**(17)** Examination by the Inquiry Authority:
+- After the Government servant closes their case (or if they do not testify themselves), the Inquiry Authority may question the Government servant to clarify evidence against them.
+
+**(18)** Final Arguments or Written Briefs:
+- After all evidence is presented, the Inquiry Authority may:
+  - Hear the arguments from the Presenting Officer and the Government servant.
+  - Allow submission of written briefs if either party desires.
+
+**(19)** Ex-Parte Inquiry:
+- If the Government servant:
+  - Fails to submit a written defence by the specified date.
+  - Does not appear in person before the Inquiry Authority.
+  - Fails or refuses to comply with procedural requirements.
+
+  The Inquiry Authority may proceed with the inquiry ex-parte.
+
+**(20)** Forwarding Records for Higher Penalties:
+(a) If the Disciplinary Authority conducting the inquiry is not competent to impose penalties under items (4) to (8) of Rule 6 but deems such penalties necessary, it shall forward the records to the competent Disciplinary Authority.
+
+(b) The receiving Disciplinary Authority may:
+  - Act on the recorded evidence.
+  - Recall and examine any witnesses if deemed necessary in the interest of justice.
+  - Impose appropriate penalties.
+
+**(21)** Successor Inquiry Authority:
+- If the Inquiry Authority is replaced during the inquiry:
+  - The successor may act on the recorded evidence or partly on the recorded and newly collected evidence.
+  - The successor may recall and re-examine any witnesses if necessary for justice.
+
+**(22)** Inquiry Report and Record Submission:
+(i) After completing the inquiry, a report shall be prepared containing:
+  - (a) The articles of charge and the statement of imputations.
+  - (b) The Government servant's defence.
+  - (c) An assessment of the evidence for each charge.
+  - (d) The findings on each charge with reasons.
+
+*Explanation:* If the proceedings establish a different charge from the original articles, findings may be recorded only if:
+  - The Government servant admits the facts, or
+  - The Government servant has had an opportunity to defend against the new charge.
+
+(ii) If the Inquiry Authority is not the Disciplinary Authority, it shall forward the following records to the Disciplinary Authority:
+  - (a) The inquiry report.
+  - (b) The written statement of defence (if any).
+  - (c) Oral and documentary evidence produced during the inquiry.
+  - (d) Written briefs (if submitted).
+  - (e) Any orders made by the Disciplinary or Inquiry Authority during the inquiry.
+
+**10. Action on the Inquiry Report:**
+
+1. **Further Inquiry (If Required):**
+   - If the Disciplinary Authority is not the Inquiry Authority, it may remit the case to the Inquiry Authority for further inquiry.
+   - The Inquiry Authority must proceed with the further inquiry in accordance with Rule 9.
+
+2. **Disagreement with Inquiry Authority:**
+   - If the Disciplinary Authority disagrees with the Inquiry Authority's findings on any article of charge, it must:
+     - Record reasons for the disagreement in writing.
+     - Formulate its own findings if the evidence on record is sufficient.
+
+3. **Imposing Penalties (Items 1-3 of Rule 6):**
+   - If the Disciplinary Authority believes that penalties under items (1) to (3) of Rule 6 should be imposed:
+     - It may impose such penalties directly, overriding the provisions of Rule 11.
+     - If required, the case must be referred to the Commission for advice before making the final order.
+
+4. **Imposing Penalties (Items 4-8 of Rule 6):**
+   - If the Disciplinary Authority believes penalties under items (4) to (8) of Rule 6 are appropriate:
+     - It may impose these penalties without giving the Government servant another opportunity to respond.
+     - Consultation with the Commission is required if specified by the rules.
+
+---
+
+**11. Procedure for Imposing Minor Penalties:**
+
+1. **Conditions for Imposing Minor Penalties:**
+   - No minor penalty (items (1) to (3) of Rule 6) may be imposed without:
+     (a) Informing the Government servant in writing about the proposal and charges.
+     (b) Providing a reasonable opportunity to respond.
+     (c) Holding an inquiry if deemed necessary by the Disciplinary Authority.
+     (d) Reviewing the Government servant's representation and the inquiry record.
+     (e) Consulting the Commission if required.
+
+   - If the penalty may adversely affect the pension or withhold increments for more than three years (with or without cumulative effect), an inquiry under Rule 9 is mandatory.
+
+2. **Record of Proceedings:**
+   - The record must include:
+     (i) Copy of the notice of the proposal.
+     (ii) Statement of charges.
+     (iii) Government servant's representation (if any).
+     (iv) Evidence presented during the inquiry.
+     (v) Commission's advice (if any).
+     (vi) Findings on each charge.
+     (vii) Final order with reasons.
+
+---
+
+**11-A. Imposition of Minor Penalty with Consent of Government Servant:**
+
+1. **Referral to the High-Level Committee:**
+   - After receiving the Government servant's written statement of defense, the Disciplinary Authority may forward the case to the High-Level Committee.
+
+2. **Committee's Consideration:**
+   - If the Committee deems a minor penalty appropriate, the Government servant is asked to appear and submit their response.
+
+3. **Outcome Based on Consent:**
+   - (a) If the Government servant agrees, the Committee records consent and imposes the minor penalty.
+   - (b) If no penalty is deemed necessary, the Committee may exonerate the Government servant.
+
+4. **Disagreement or Major Penalty:**
+   - If the Government servant disagrees or the Committee believes a major penalty may apply, the case is returned to the Disciplinary Authority for further inquiry under the rules.
+
+---
+
+**12. Communication of Orders:**
+
+- The Disciplinary Authority must communicate its decision to the Government servant and provide:
+  - A copy of the inquiry report.
+  - Findings on each charge.
+  - Any disagreement with the Inquiry Authority's findings.
+  - The Commission's advice (if any) and reasons for non-acceptance, if applicable.
+
+---
+
+**13. Common (Joint) Proceedings:**
+
+1. **When to Initiate Joint Proceedings:**
+   - If multiple Government servants are involved in the same case, a common proceeding may be initiated by the authority empowered to impose dismissal on all involved.
+
+   - If different authorities are responsible, the highest-ranking authority may authorize the joint proceedings with the others' consent.
+
+2. **Specifications in the Joint Order:**
+   - The joint order must specify:
+     (i) The Disciplinary Authority for the common proceedings.
+     (ii) The penalties (as per Rule 6) the Disciplinary Authority may impose.
+     (iii) Whether to follow the procedure under Rules 9 and 10 or Rule 11.
+
+Here's a concise breakdown of the key points from **Rules 14 to 18** for easier understanding:
+
+---
+
+### **14. Special Procedure in Certain Cases**
+This rule outlines exceptions where the usual disciplinary procedures (Rules 8 and 9) do not apply:
+
+1. **When is the standard procedure not required?**
+   - **Conviction on a Criminal Charge**: If a government servant is convicted of a crime.  
+   - **Impractical to Follow Procedure**: If the disciplinary authority records in writing that it is not feasible to follow the prescribed process.  
+   - **State Security Concerns**: If the government decides that following the normal procedure may compromise state security.  
+
+2. **Action in these cases**:  
+   - The disciplinary authority may directly impose appropriate penalties after reviewing the case.  
+   - **Consultation Requirement**: If required, the authority must consult the Commission before making a final decision.
+
+---
+
+### **15. Officers on Deputation to Other Governments or Authorities**
+1. **Who has the power during deputation?**  
+   - The **borrowing authority** (where the officer is sent) can:  
+     - Suspend the officer.  
+     - Initiate and conduct disciplinary proceedings.  
+
+2. **Communication with the Lending Authority**:  
+   - The borrowing authority must **inform** the lending authority (original employer) about the suspension or disciplinary action.  
+
+3. **Imposing Penalties**:  
+   - **Minor Penalties (Items 1-3 of Rule 6)**: The borrowing authority may impose these penalties after consulting the lending authority.  
+   - **Major Penalties (Items 4-8 of Rule 6)**: The borrowing authority must return the officer to the lending authority, which will then decide on the penalty.  
+
+---
+
+### **16. Officers Borrowed from Other Governments**
+1. **Informing the Lending Authority**:  
+   - If a borrowed officer is suspended or faces disciplinary proceedings, the borrowing authority must **immediately inform** the lending authority.  
+
+2. **Imposing Penalties**:  
+   - **Minor Penalties (Items 1-3 of Rule 6)**: The borrowing authority can impose them after consulting the lending authority.  
+   - **Major Penalties (Items 4-8 of Rule 6)**: The borrowing authority must send the officer back to the lending authority along with the inquiry report for further action.  
+
+---
+
+### **17. Orders Against Which No Appeal Lies**
+An appeal is **not** allowed against:
+1. **Interlocutory Orders**: Temporary or procedural orders during disciplinary proceedings (except suspension).  
+2. **Orders by Inquiry Authority**: Decisions made by the inquiry authority during the investigation under Rule 9.  
+3. **Orders by High-Level Committee**: Decisions made under Rule 11-A.  
+
+---
+
+### **18. Orders Against Which an Appeal is Allowed**
+A **Government servant** can appeal against:
+1. **Disciplinary Actions**:
+   - Suspension orders.  
+   - Imposition of penalties (Rule 6).  
+   - Enhancement of penalties.  
+
+2. **Service Conditions**:
+   - Reduction in pay, allowances, or pension.  
+   - Interpretation of rules in a way that disadvantages the employee.  
+   - Discharge from service.  
+   - Denial of promotion or confirmation in service.  
+
+3. **Other Orders**:
+   - Being stopped at the efficiency bar.  
+   - Reversion to a lower post without penalty.  
+   - Changes in pay during suspension or disciplinary action.  
+   - Decisions about whether suspension time counts as service time.  
+
+**Where to Appeal**:
+   - Generally, to the officer **immediately superior** to the one who issued the order.  
+   - Appeals involving pensions or decisions by appellate officers go **directly to the Government**.  
+   - If the order is from someone directly under the **State Government**, the appeal goes to the **State Government**.  
+
+This section outlines the process for filing, considering, and reviewing appeals under disciplinary proceedings for government employees in Gujarat. Here’s a breakdown of the key points:
+
+---
+
+### **19. Period of Limitation for Appeals**
+- **Time Limit:** Appeals must be filed within **45 days** from the date the appellant receives the order.
+- **Extension:** Appeals may be accepted beyond this period if the appellate authority is satisfied there was a **valid reason** for the delay.
+
+---
+
+### **20. Form and Contents of Appeals**
+1. **Individual Appeal:** Each person must file their **own** appeal separately.  
+2. **Submission Process:**  
+   - File the appeal with the appropriate **appellate authority**.  
+   - Send a **copy** to the authority that issued the order.  
+3. **Content Requirements:**  
+   - Include all **material statements** and arguments.  
+   - Must not contain **disrespectful** language.  
+   - Should be **complete** in itself.  
+4. **Forwarding the Appeal:**  
+   - The original authority must send the appeal and relevant records to the appellate authority **without delay**.
+
+---
+
+### **21. Consideration of Appeals**
+1. **Suspension Orders:** The appellate authority will review the **justification** of the suspension and either **confirm or revoke** it.  
+2. **Penalty Orders:** For appeals against penalties under **Rule 6**, the authority must consider:  
+   - **Procedural compliance** and any irregularities affecting justice.  
+   - **Justification** of findings.  
+   - **Adequacy** of the penalty.  
+   - Possible outcomes include setting aside, reducing, confirming, or **enhancing** the penalty.  
+3. **Enhanced Penalties:**  
+   - Cannot impose a penalty the authority itself is not authorized to impose.  
+   - Cannot enhance a penalty without **giving the appellant an opportunity** to respond.  
+   - If no inquiry was conducted under Rule 9, an inquiry must be **initiated** before enhancing penalties from **items (4) to (8)** of Rule 6.  
+4. **Other Orders (Rule 14):** The appellate authority may issue **just and equitable** orders.
+
+---
+
+### **22. Government’s Power to Review**
+- The government can **review** any order (whether appealed or not) on its **own motion** or upon request.  
+- Actions that can be taken:  
+   - Confirm, modify, or set aside the order.  
+   - Impose, reduce, confirm, or enhance penalties.  
+   - Refer the case back for **further inquiry**.  
+   - Issue any other appropriate **order**.  
+- **Restrictions:**  
+   - No enhanced penalty without giving the **opportunity to respond**.  
+   - Penalties under **items (4) to (8)** of Rule 6 require a prior **inquiry** if not already conducted.  
+   - **No review** is permitted if the matter falls under the **Gujarat Civil Services Tribunal Act, 1972**.
+
+---
+
+### **23. Review of Orders in Disciplinary Cases**
+- Appellate authorities can **review** any disciplinary decision.  
+- **Time Limit:** Action under this rule cannot be taken after **six months** from the date of the original order.  
+
+---
+
+### **24. Review by Government of Its Own Order**
+1. **Conditions for Review:**  
+   - **Error** on the face of the record.  
+   - **Other sufficient reasons**.  
+2. **Restrictions:**  
+   - No penalty enhancement without giving an opportunity to **show cause**.  
+   - Penalties under **items (1) to (3)** of Rule 6 cannot be changed to **items (4) to (8)** without conducting an **inquiry** under Rule 9.  
+3. **Commencement of Review:**  
+   - Can begin **after** the appeal period has expired or an appeal is disposed of.  
+
+### **PART-VII – MISCELLANEOUS**  
+
+---
+
+### **25. Power to Relax Time Limit and Condone Delay**  
+- **Authority's Discretion:** The competent authority may extend **time limits** or condone **delays** for any action required under these rules.  
+- **Conditions:** This can be done if there are **good and sufficient reasons** or if the appellant shows a **valid cause**.  
+
+---
+
+### **26. Supply of Copy of Commission’s Advice**  
+- **Government Servant’s Right:**  
+   - If the **Commission** is consulted during disciplinary proceedings, a **copy** of its advice must be provided to the affected government servant.  
+   - If the advice is **not accepted**, the government servant must also receive a **brief explanation** of the reasons for non-acceptance.  
+   - This must be delivered **along with the final order** issued by the competent authority.  
+
+---
+
+### **27. Repeal and Saving**  
+1. **Repeal of Previous Rules:**  
+   - Any **previous rules** corresponding to these new rules are repealed.  
+   - **Exceptions:**  
+      (a) Actions already taken under the old rules remain **valid**.  
+      (b) Orders passed under the old rules, if **not inconsistent** with the new rules, will be treated as if passed under these rules.  
+      (c) **Ongoing proceedings** under the old rules will continue under the new rules as far as possible.  
+
+2. **Right of Appeal:**  
+   - Government servants retain their **right to appeal** under the old rules if it applies to orders made **before** these new rules took effect.  
+   - If such an appeal is not allowed under the new rules, it can still be made under the **repealed** rules.  
+
+3. **Handling Pending and Future Appeals:**  
+   - Appeals pending at the time these rules start or filed **after** their commencement will be handled under the **new rules**—even if the original order was made under the old rules.  
+
+---
+
+### **28. Removal of Doubts**  
+- **Resolving Uncertainties:**  
+   - If there is **doubt** regarding:  
+      - **Who** is the head of an office.  
+      - **Authority** relationships (subordinate or higher).  
+      - **Interpretation** of any rule.  
+   - The matter will be referred to the **Government**, and their **decision will be final**.  
+
+---
+
+**Issued by order and in the name of the Governor of Gujarat.**  
+**L. R. DALAL**  
+*Chief Secretary to Government.*  
+
